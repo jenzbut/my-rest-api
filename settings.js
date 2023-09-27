@@ -4,7 +4,7 @@ global.creator = 'JENZSTORE'// yourname
 global.MONGO_DB_URI = "mongodb+srv://jenzstore:jenzstore123@cluster0.2g8mg21.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "rboygaming04@gmail.com" //email
-global.email_password = "cgxp ojri pxau phpb" //application password email
+global.email_password = "cgxpojripxauphpb" //application password email
 global.limitCount = 10000
 global.apikey = 'jenzstore'
 global.YUOR_PORT = 8000
