@@ -6,6 +6,7 @@ global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "firazdengkol@gmail.com" //email
 global.email_password = "" //application password email
 global.limitCount = 10000
+global.apikey = 'jenzstore'
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
